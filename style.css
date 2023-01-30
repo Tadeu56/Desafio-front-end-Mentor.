@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+   padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:hsl(0, 0%, 98%);
+    font-size: 18px;
+}
+.menu{
+list-style: none;
+
+}
+.menu li{
+    display: inline;
+}
+.pai-menu{
+     
+    display: flex;
+   flex-direction: row;
+}
+
+select{
+    border: none;
+    color:hsl(0, 0%, 41%);
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.snap{
+    font-family:  'Epilogue', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    
+    margin-left: 25px;
+    margin-top: 15px;
+    padding-right: 30px;  
+}
+.filho-menu{
+  margin-right: 700px;
+  margin-top: 18px;
+  font-size: 12px;
+  font-family:'Epilogue', sans-serif;
+  font-weight: 500;
+  color:hsl(0, 0%, 41%);
+  
+  
+  
+}
+.li{
+    padding: 15px;
+}
+
+.filho-botões{
+margin-top: 22px;
+border: solid red;
+
+
+
+
+}
+
+.login{
+    font-family:'Epilogue', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    color:hsl(0, 0%, 41%);
+    border: none;
+    background-color: hsl(0, 0%, 98%);
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-right: 20px;
+    
+}
+.register{
+    width: 90px;
+    height: 40px;
+    border-radius: 14px;
+    border-color: hsl(0, 0%, 41%);
+    opacity: 60%;
+    margin-top: 10px;
+    margin-right: 50px;
+    
+    
+
+}
+
+.imge{
+    width: 400px;
+    height: 500px;   
+}
+.imagem{
+    
+    margin-left: 250px;
+    margin-top: 60px;
+
+}
+
+.conteudo-pai{
+    
+    display: flex;
+    height: 500px;
+}
+.textos{
+
+    padding-left: 100px;
+
+}
+
+.titulo{
+    font-size: 70px;
+    font-weight: 700;
+    font-family:'Epilogue', sans-serif;
+    padding-top: 100px;
+    
+
+}
+
+.paragrafo{
+   padding-top: 25px;
+   font-size: 18px;
+   font-family:'Epilogue', sans-serif;
+   font-weight: 500;
+   opacity: 60%;
+   line-height: 25px;
+
+}
+
+.botão{
+    background-color:hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 98%);
+    width: 126px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-family:'Epilogue', sans-serif; ;
+    font-weight: 500;
+    margin-top: 50px;
+    
+    
+}
+.icones{
+    
+    width: 800px;
+    margin-left: 70px;
+    
+    
+
+}
+img{
+    padding-right: 10px;
+    margin-left: 30px;
+    width: 90px;
+    width: 100px;
+    
+}
+
+
+
+
+
+
+
